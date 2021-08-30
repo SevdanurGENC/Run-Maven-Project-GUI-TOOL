@@ -2,7 +2,7 @@
 In this repo, you can clean and build any maven project with the help of a button in a java gui.
 
 
-# In this repo, there are two projects.
+-- In this repo, there are two projects.
 ## One of them belongs to the maven project (my-app) and the other is the gui that belongs to the desktop application (my-app-desktop).
 
 ![image](https://user-images.githubusercontent.com/5441882/131272639-0dc9aa4d-a6a3-4461-838b-8168bd6610dc.png)
