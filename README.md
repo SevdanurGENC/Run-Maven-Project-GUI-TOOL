@@ -16,11 +16,11 @@ Maven is a build automation tool used primarily for Java projects. Maven can als
 
 ![image](https://user-images.githubusercontent.com/5441882/131273359-6269edd8-fb24-4cbb-a335-19c4b643ddec.png)
 
+## Thus, you can easily build an existing maven project without using any ide. 
+
 * mvn claen compile test package
 
-## Thus, you can easily build an existing maven project without using any ide. 
 ## You can also easily call not only one maven project, but also multiple maven projects or any java class.
-
 
 ## Of course, a maven project is called normally as follows.
 
