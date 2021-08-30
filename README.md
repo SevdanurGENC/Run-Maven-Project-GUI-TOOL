@@ -34,13 +34,9 @@ NOTE : While making all these adjustments, it varies according to the versions o
 ### Under System Variables add below
 
 * JAVA_HOME = C:\Program Files\Java\jdk1.8.0_201
-
 * JDK_HOME = %JAVA_HOME%\bin
-
 * M2_HOME = C:\apache-maven-3.6.0
-
 * MAVEN_BIN = %M2_HOME%\bin
-
 * MAVEN_HOME = %M2_HOME%
 
 ### Under path Add these
