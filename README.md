@@ -31,7 +31,7 @@ Maven is a build automation tool used primarily for Java projects. Maven can als
 ## Of course, in order to run all these operations on the command line, you need to create the following settings in the system variables.
 NOTE : While making all these adjustments, it varies according to the versions of the java and maven libraries available on your system.
 
-** Under System Variables add below
+### Under System Variables add below
 
 * JAVA_HOME = C:\Program Files\Java\jdk1.8.0_201
 
@@ -43,7 +43,7 @@ NOTE : While making all these adjustments, it varies according to the versions o
 
 * MAVEN_HOME = %M2_HOME%
 
-- Under path Add these
+### Under path Add these
 
 * %M2_HOME%
 * %JDK_HOME%
