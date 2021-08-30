@@ -1,6 +1,7 @@
 # Run-Maven-Project-GUI
 In this repo, you can clean and build any maven project with the help of a button in a java gui.
 
+Maven is a build automation tool used primarily for Java projects. Maven can also be used to build and manage projects written in C#, Ruby, Scala, and other languages. The Maven project is hosted by the Apache Software Foundation, where it was formerly part of the Jakarta Project. Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.
 
 ## In this repo, there are two projects.
 ## One of them belongs to the maven project (my-app) and the other is the gui that belongs to the desktop application (my-app-desktop).
