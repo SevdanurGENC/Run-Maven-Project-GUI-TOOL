@@ -5,11 +5,11 @@ In this repo, you can clean and build any maven project with the help of a butto
 ## In this repo, there are two projects.
 ## One of them belongs to the maven project (my-app) and the other is the gui that belongs to the desktop application (my-app-desktop).
 
-![image](https://user-images.githubusercontent.com/5441882/131272639-0dc9aa4d-a6a3-4461-838b-8168bd6610dc.png)
+![image](https://user-images.githubusercontent.com/5441882/131273700-ecd6c9b8-7a94-47e4-bb33-582f90bcbed2.png)
 
 ## The command line is opened with the help of a button in the desktop application designed in the gui. 
 
-![image](https://user-images.githubusercontent.com/5441882/131273283-4bdcf0c6-c9c4-4ec4-8aeb-a003d93f460e.png)
+![image](https://user-images.githubusercontent.com/5441882/131273673-25f5f9e2-4393-47d9-8ddf-af434dd54b9c.png)
 
 ## The following line of code is run on the command line, which can clean and build maven.
 
