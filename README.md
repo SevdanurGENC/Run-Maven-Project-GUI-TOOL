@@ -19,3 +19,11 @@ In this repo, you can clean and build any maven project with the help of a butto
 
 ## Thus, you can easily build an existing maven project without using any ide. 
 ## You can also easily call not only one maven project, but also multiple maven projects or any java class.
+
+
+## Of course, a maven project is called normally as follows.
+
+![image](https://user-images.githubusercontent.com/5441882/131273747-ade31cc4-cc0a-4f44-a6b3-64e4df9a1b22.png)
+
+![image](https://user-images.githubusercontent.com/5441882/131273794-683fcc60-f87c-4174-9420-22847d3db827.png)
+
